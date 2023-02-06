@@ -41,7 +41,7 @@ body {
 }
 
 .card-content h1 {
-  font-size: 22px;
+  font-size: 18px;
   margin-top: 1.25rem;
   color: var(--dark-blue);
   font-weight: 700;
