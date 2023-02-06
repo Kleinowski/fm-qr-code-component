@@ -20,10 +20,6 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
-p {
-  font-size: 15px;
-}
-
 .card {
   background: var(--white);
   width: 320px;
@@ -51,4 +47,5 @@ p {
   color: var(--grayish-blue);
   font-weight: 400;
   margin: 1rem 0;
+  font-size: 15px;
 }
